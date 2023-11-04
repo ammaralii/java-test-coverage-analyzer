@@ -3,3 +3,4 @@
 target/*
 exec-data/
 test_coverage_projects/
+*.DS_STORE
