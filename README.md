@@ -8,8 +8,6 @@ This repository contains a dynamic analysis tool for collecting method-level cov
 
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Example](#example)
 - [Output](#output)
 - [Performance](#performance)
 - [Testing](#testing)
